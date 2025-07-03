@@ -1,13 +1,14 @@
 /* Base styles */
 body {
     margin: 0 auto;
-    padding: 48px;
+    padding: 120px;
     width: 800px;
     font-family: 'Open Sans', sans-serif;
     background-color: #fff8f0;
     color: #333;
     line-height: 1.6;
     text-align: justify;
+    border: 4px solid black;
 }
 
 /* Header */
