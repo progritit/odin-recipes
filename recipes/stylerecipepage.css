@@ -20,6 +20,16 @@ body.recipepage > a[href="../index.html"] {
     border-bottom: 2px solid transparent;
     transition: border-color 0.3s ease, color 0.3s ease;
 }
+/*Recipes link styling */
+body.recipepage > a[href="../recipes.html"] {
+    display: inline-block;
+    margin-bottom: 25px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #8b0000;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.3s ease, color 0.3s ease;
+}
 
 body.recipepage > a[href="../index.html"]:hover {
     color: #d14b4b;
